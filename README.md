@@ -22,3 +22,4 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+rails devise confirmation link bootstrap bootstrap twitter 
